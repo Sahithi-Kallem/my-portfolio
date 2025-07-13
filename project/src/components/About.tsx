@@ -70,7 +70,7 @@ const About = () => {
                     </div>
                     <p className="text-cyan-400 font-medium">Computer Science Engineering</p>
                     <p className="text-slate-400">Gokaraju Rangaraju Institute of Technology</p>
-                    <p className="text-sm text-slate-500">2025</p>
+                    <p className="text-sm text-slate-500">2026</p>
                   </div>
                 </div>
                 
